@@ -1,0 +1,2 @@
+# Dependencies are not required.
+# The bot uses only Python standard library.
